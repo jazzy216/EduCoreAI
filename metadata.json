@@ -1,0 +1,5 @@
+{
+  "name": "EduCore AI",
+  "description": "An advanced adaptive learning platform that generates custom assessment modules based on topics or uploaded content using Gemini AI.",
+  "requestFramePermissions": []
+}
